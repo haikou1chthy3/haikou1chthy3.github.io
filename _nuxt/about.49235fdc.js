@@ -1,1 +1,0 @@
-import{_ as e,l as t,m as o,W as s}from "./_plugin-vue_export-helper.1457150d.js";const a={},c=s("p",null,"This page will be displayed at the /about route.",-1),n=[c];function r(_, l){return t(),o("section",null,n)}const d=e(a,[["render",r]]);export{d as default};
