@@ -1,1 +1,0 @@
-import{F as t,G as e,_ as o}from "./q-9235fbf5.js";const _=t(e(()=>o(()=>import("./q-a75e4687.js"),["build/q-a75e4687.js","build/q-9235fbf5.js"]),"s_crp5PYqmBUM")),i={title:"Welcome to Qwik Docs Starter"};export{_ as default,i as head};
