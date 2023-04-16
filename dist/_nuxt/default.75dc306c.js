@@ -1,1 +1,0 @@
-import{_ as a,a3 as e,l as s,m as c,q as o,X as p}from"./_plugin-vue_export-helper.1457150d.js";const _={};function l(t,d){const n=e("AppHeader"),r=e("AppFooter");return s(),c("div",null,[o(n),p(t.$slots,"default"),o(r)])}const m=a(_,[["render",l]]);export{m as default};
