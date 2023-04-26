@@ -1,0 +1,1 @@
+import{F as e,G as o,_ as a}from"./q-ff6b136f.js";const i=e(o(()=>a(()=>import("./q-591dc689.js"),["build/q-591dc689.js","build/q-ff6b136f.js"]),"s_vP5lWfKhuIc")),r=({head:t})=>({title:`${t.title} - Haikou1chthy3`});export{i as default,r as head};
