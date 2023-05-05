@@ -1,1 +1,0 @@
-import{F as e,G as t,_ as o}from"./q-fce9f7f4.js";const i=e(t(()=>o(()=>import("./q-a4963f0d.js"),["build/q-a4963f0d.js","build/q-fce9f7f4.js","build/q-37cdb899.js"]),"s_5mfjbpny43c")),m={title:"Welcome to Some else",meta:[{name:"some else",content:"site description"}]};export{i as default,m as head};
